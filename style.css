@@ -99,6 +99,14 @@ body{
 .recipie{
     text-align: center;
 }
+.recipie h1{
+    color: #676767;
+    font-size: 36px;
+}
+.recipie p{
+    color: #4b4a4a;
+
+}
 .recipie .slide{
     display: flex;
 
@@ -119,9 +127,11 @@ body{
 }
 .recipie .slide .single_slide h1{
     text-align: left;
+    color: #18191F;
 }
 .recipie .slide .single_slide p{
     text-align: left;
+    color: #6E6F73;
 }
 .counter{
     text-align: center;
